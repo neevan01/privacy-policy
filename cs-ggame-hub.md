@@ -6,7 +6,7 @@ This Privacy Policy applies to the mobile application "CS Game Hub" ("the App"),
 
 **1. Developer Contact Information**
 *   **Developer Name:** Nabin Ghimire
-*   **Email:** neevanaveen1997@gmail.com
+*   **Email:** csgamehub.sp@gmail.com
 *   **Country of Operation:** Nepal
 
 **2. Information Collection and Use**
@@ -35,7 +35,7 @@ This Privacy Policy applies to the mobile application "CS Game Hub" ("the App"),
 
 *  We believe you have the right to control your data. As our system is based on anonymous usernames, your primary right is the right to erasure.
 
-**Account Deletion:** You can request the permanent deletion of your account and all associated game data at any time. For detailed instructions on how to do this, please see our **[Account and Data Deletion Policy](link-to-your-deletion-policy.md)**.
+**Account Deletion:** You can request the permanent deletion of your account and all associated game data at any time. For detailed instructions on how to do this, please see our **[Account and Data Deletion Policy](https://neevan01.github.io/privacy-policy/delete-account)**.
 
 **6. In-App Purchases**
 
@@ -59,4 +59,4 @@ The App is not directed at children under the age of 13. We do not knowingly col
 
 **10. Contact Us**
 
-*   If you have any questions or concerns about this Privacy Policy, please contact Nabin Ghimire at: **neevanaveen1997@gmail.com**
+*   If you have any questions or concerns about this Privacy Policy, please contact Nabin Ghimire at: **csgamehub.sp@gmail.com**
