@@ -1,6 +1,6 @@
 # Account and Data Deletion Policy for CS Game Hub
 
-**Last Updated:** [2025/07/29]
+**Last Updated:** July 29, 2025
 
 We believe you should have control over your data. This page explains how to request the deletion of your CS Game Hub account and all associated data.
 
