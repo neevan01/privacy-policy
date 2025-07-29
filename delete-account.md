@@ -10,7 +10,7 @@ We believe you should have control over your data. This page explains how to req
 
 To permanently delete your account and all associated game data (including your username, coins, stats, unlocked items, and friends list), please follow these simple steps:
 
-1.  **Compose an Email:** Send an email from any email address to our support team at **neevanaveen1998@gmail.com**.
+1.  **Compose an Email:** Send an email from any email address to our support team at **csgamehub.sp@gmail.com**.
 
 2.  **Use a Clear Subject Line:** Please use the subject line: `Account Deletion Request for CS Game Hub`
 
@@ -22,7 +22,7 @@ To permanently delete your account and all associated game data (including your 
 
 For your convenience, you can use the template below.
 
-**To:** `neevanaveen1998@gmail.com`  
+**To:** `csgamehub.sp@gmail.com`  
 **Subject:** `Account Deletion Request for CS Game Hub`
 
 **Body:**
@@ -56,4 +56,4 @@ For analytical and statistical purposes, some game data may be retained in an ag
 
 ---
 
-If you have any questions about this process, please do not hesitate to contact us at **neevanaveen1998@gmail.com**.
+If you have any questions about this process, please do not hesitate to contact us at **csgamehub.sp@gmail.com**.
