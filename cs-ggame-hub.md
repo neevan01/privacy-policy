@@ -33,7 +33,9 @@ This Privacy Policy applies to the mobile application "CS Game Hub" ("the App"),
 
 **5. User Rights & Data Deletion**
 
-*   **You can request the deletion of your account and all associated game data by contacting us at the email address provided below.**
+*  We believe you have the right to control your data. As our system is based on anonymous usernames, your primary right is the right to erasure.
+
+**Account Deletion:** You can request the permanent deletion of your account and all associated game data at any time. For detailed instructions on how to do this, please see our **[Account and Data Deletion Policy](link-to-your-deletion-policy.md)**.
 
 **6. In-App Purchases**
 
@@ -47,7 +49,9 @@ This Privacy Policy applies to the mobile application "CS Game Hub" ("the App"),
 
 **8. Children’s Privacy**
 
-*   CS Game Hub is intended for a general audience and is not knowingly directed to children under the age of 13. We do not knowingly collect any personally identifiable information.
+*   CS Game Hub is intended for a general audience, specifically users aged **16 and over**.
+
+The App is not directed at children under the age of 13. We do not knowingly collect any personally identifiable information from children. If you are a parent or guardian and you believe your child has provided us with information without your consent, please contact us immediately at the email address provided below so we can take appropriate action.
 
 **9. Changes to This Privacy Policy**
 
